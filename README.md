@@ -30,8 +30,8 @@ Train records
 
 ## Alumnos
 
-Guillermo M.
-Milton B.
+- Guillermo M.
+- Milton B.
 
 
 
