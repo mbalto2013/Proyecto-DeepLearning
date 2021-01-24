@@ -33,7 +33,7 @@ Imagenes
     
  Video
 
-    python detect.py --classes=../VOC2012/data/voc2012.names --image=03007_Mask_Chin.jpg --num_classes=4 --output=03007_Mask_Chin-out.jpg --weights=checkpoints/yolov3_train_2.tf --size=64
+    python detect_video.py --classes=../VOC2012/data/voc2012.names --num_classes4 --output resultados.avi --size=64 --video=0 --weights=checkpoints/yolov3_train_2.tf
 
 
 
