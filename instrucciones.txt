@@ -1,6 +1,8 @@
+Pre-requisitos:
+- Cualquiera que se mencione en la carpeta yolov3_tf2
+
 Notas
 1- Todos los comandos aqui mostrados debe ejecutarse desde la carpeta: yolov3_tf2
-
 
 - Generar tf records:
 python tools/voc2012.py --data_dir=../VOC2012 --output_file=../VOC2012/tfrecord/val.tfrecord --split val --classes=../VOC2012/data/voc2012.names
