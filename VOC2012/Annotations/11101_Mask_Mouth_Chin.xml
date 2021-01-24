@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>11101_Mask_Mouth_Chin.jpg</filename>
+	<path>../JPEGImages/11101_Mask_Mouth_Chin.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask_Mouth_Chin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>366</ymin>
+			<xmax>715</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>
